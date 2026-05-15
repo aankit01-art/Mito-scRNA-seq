@@ -1,1 +1,1 @@
-
+X2 population in planaria comprise of neoblasts in the G1 phase and early progenitors cells. We employed Mitotracker based staining to identify four subpopulation within X2 compartment based on mitochondrial content and cell size. Single cell libraries were constructed using 10X Chromium Next GEM Single Cell 3ʹ Reagent Kitv3.1 according to the manufacturer’s instruction.
